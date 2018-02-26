@@ -1,4 +1,3 @@
-happy unhappy pleasant unpleasant
 sudden suddenly usual usually
 bad worse good better
 go going look looking
